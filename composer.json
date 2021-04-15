@@ -1,0 +1,21 @@
+{
+  "name": "workerman/gateway-worker-demo",
+  "keywords": [
+    "distributed",
+    "communication"
+  ],
+  "homepage": "http://www.workerman.net",
+  "license": "MIT",
+  "require": {
+    "ext-json": "*",
+    "ext-redis": "*",
+    "workerman/gateway-worker": ">=3.0.0",
+    "symfony/dotenv": "^5.2",
+    "guzzlehttp/guzzle": "^7.3",
+    "illuminate/database": "^8.34",
+    "illuminate/events": "^8.34",
+    "katzgrau/klogger": "^1.2",
+    "php-amqplib/php-amqplib": "^3.0",
+    "workerman/gatewayclient": "^3.0"
+  }
+}

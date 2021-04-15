@@ -1,0 +1,5 @@
+.idea
+composer.lock
+/Applications/Server/.env
+/Applications/Server/Runtime/logs/
+/vendor
