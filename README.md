@@ -21,4 +21,4 @@ FastWorker：一款使用PHP开发的高性能socket长连接业务框架，适�
 
 更多
 =======
-更多请查询Wokerman/GatewayWorker文档：https://www.workerman.net
+请查询Wokerman文档：https://www.workerman.net
